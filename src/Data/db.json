@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "123456789",
+      "gender": "Male",
+      "role": "Staff"
+    },
+    {
+      "id": 2,
+      "name": "Bhuvana",
+      "email": "bhuvana@gmail.com",
+      "phone": "08951889993",
+      "gender": "Female",
+      "role": "Staff"
+    },
+    {
+      "name": "vikram",
+      "email": "vikram@gmail.com",
+      "phone": "908908767",
+      "gender": "Male",
+      "role": "Staff",
+      "id": 3
+    },
+    {
+      "name": "Deepa",
+      "email": "deepa@gmail.com",
+      "phone": "8951889993",
+      "gender": "Female",
+      "role": "Staff",
+      "id": 4
+    },
+    {
+      "name": "Bhavana Vastrad",
+      "email": "bhavana.vastrad@gmail.com",
+      "phone": "8854867963",
+      "gender": "Female",
+      "role": "Admin",
+      "id": 5
+    }
+  ]
+}

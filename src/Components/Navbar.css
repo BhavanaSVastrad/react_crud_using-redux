@@ -1,0 +1,8 @@
+.nav-link:hover{
+    text-decoration: underline;
+    /* box-shadow: 0 0 8px rgba(243, 238, 238, 0.945); */
+    background-color: rgb(198, 228, 233);
+    color: black;
+    font-weight: bolder;
+    border-radius: 300px;
+}
